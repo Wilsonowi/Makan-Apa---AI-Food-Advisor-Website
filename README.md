@@ -1,4 +1,4 @@
-# 🍜 Makan Apa AI
+# 🍜 Makan Apa
 
 > Your AI-powered Malaysian food advisor — tells you exactly what to eat based on your location, weather, time, and mood.
 

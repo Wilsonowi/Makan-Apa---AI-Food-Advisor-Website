@@ -88,11 +88,9 @@ Add your environment variables in the Vercel dashboard under **Settings → Envi
 
 ## Built With
 
-- [Next.js 14](https://nextjs.org/) — React framework
-- [Claude API](https://anthropic.com) — AI recommendations
-- [OpenWeatherMap](https://openweathermap.org/) — Weather data
-- [Google Places API](https://developers.google.com/maps/documentation/places/web-service) — Nearby restaurants
-- [Syne + DM Sans](https://fonts.google.com/) — Typography
+- [Next.js 14] — React framework
+- [Gemini API]— AI recommendations
+- [OpenWeatherMap] — Weather data
 
 ---
 

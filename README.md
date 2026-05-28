@@ -96,4 +96,4 @@ Add your environment variables in the Vercel dashboard under **Settings → Envi
 
 ---
 
-Made with ❤️ for Malaysia 🇲🇾
+

@@ -4,7 +4,7 @@
 
 ## Features
 
-- 🤖 **AI Recommendations** — Powered by Claude (Anthropic) with deep Malaysian food knowledge
+- 🤖 **AI Recommendations** — Powered by Gemini (Anthropic) with deep Malaysian food knowledge
 - 📍 **Auto Location** — Detects your current location via browser geolocation
 - 🌦️ **Live Weather** — Fetches real-time weather to match food to conditions
 - 🗺️ **Nearby Places** — Finds actual restaurants/stalls near you via Google Places
